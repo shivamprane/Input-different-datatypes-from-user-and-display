@@ -1,0 +1,1 @@
+# Input-different-datatypes-from-user-and-display
